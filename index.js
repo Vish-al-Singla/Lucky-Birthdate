@@ -31,6 +31,7 @@ function calculateSum(dob) {
     for (let i = 0; i<dob.length;i++) {
         sum = sum + Number(dob.charAt(i));
     }
+    return sum;
 }
 
 
