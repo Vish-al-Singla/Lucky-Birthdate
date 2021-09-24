@@ -1,0 +1,1 @@
+const dateOfBirth = document.querySelector("#date-of-birth");
